@@ -72,10 +72,6 @@ span:not(.sr-only) {
   font-weight: normal;
 }
 
-span {
-  font-weight: normal;
-}
-
 table {
   border-collapse: collapse;
   border: 0;
