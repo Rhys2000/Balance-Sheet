@@ -71,3 +71,7 @@ section {
 span:not(.sr-only) {
   font-weight: normal;
 }
+
+span {
+  font-weight: normal;
+}
